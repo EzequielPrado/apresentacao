@@ -199,8 +199,6 @@ Error generating stack: `+s.message+`
             <span class="text-sm text-gray-300">(Menos funcionários, mais tecnologia)</span>
           </div>
         </div>
-        <p class="!mt-4 !mb-0">Este posicionamento favorece parcerias com fundos, aquisição estratégica por players de SaaS ou expansão como plataforma de infra operacional global e médias empresas.</p>
-      </div>
 
       <div class="bg-gradient-to-r from-purple-600/20 to-purple-800/20 border border-purple-400/40 rounded-xl p-8 text-center">
         <h2 class="!mt-0 !mb-4">Considerações Finais</h2>
@@ -756,7 +754,7 @@ Error generating stack: `+s.message+`
         </div>
       </div>
     `},{id:"saas-segunda-fase",title:"SaaS da NOCTA.I – 2ª Fase",content:`
-      <h1>Documento Executivo - SaaS da NOCTA.I (Visão de Escala)</h1>
+      <h1 style="font-size: 48px; font-weight: bold;">Documento Executivo - SaaS da NOCTA.I (Visão de Escala)</h1>
       
       <div class="bg-blue-900/20 border border-blue-500/30 rounded-xl p-6 mb-8">
         <h2 class="!mt-0 !mb-4">Contexto Estratégico</h2>
@@ -1250,11 +1248,8 @@ Error generating stack: `+s.message+`
         </div>
       </div>
     `},{id:"noctapay-terceira-fase",title:"NOCTAPAY – 3ª Fase",content:`
-      <h1>Documento Estratégico de Escopo — NOCTAPAY by NOCTA.I</h1>
+      <h1>Documento Estratégico de Escopo — NOCTAPAY by NOCTA.I(nome fictício)</h1>
       
-      <div class="bg-yellow-900/20 border border-yellow-500/30 rounded-xl p-6 mb-8">
-        <p class="!mb-0 text-center"><em>(nome fictício)</em></p>
-      </div>
       
       <div class="bg-red-900/20 border border-red-500/30 rounded-xl p-6 mb-8">
         <p class="!mb-0 text-center"><strong>Vamos explicar em detalhes na call de segunda-feira, o que é esse projeto, o que é swipy</strong></p>
